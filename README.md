@@ -23,10 +23,13 @@ Upload a PDF, choose how you want it analyzed, and get structured explanations t
 ## 📸 Preview
 
 ### Desktop
-![BioResearch AI Desktop](screenshots/desktop.png)
+<img width="1872" height="995" alt="biore" src="https://github.com/user-attachments/assets/c304b337-d27c-457a-8ae1-27b6587ded6a" />
+<img width="1872" height="995" alt="biore2" src="https://github.com/user-attachments/assets/8b4f2b44-2c6c-4c47-847c-82c29dcc1d0b" />
+<img width="1868" height="997" alt="biore3" src="https://github.com/user-attachments/assets/f88e3c61-57ac-46ab-bdfd-bde5500edb67" />
+<img width="1874" height="1001" alt="biore4" src="https://github.com/user-attachments/assets/1cff17fd-05de-46b5-882c-8b012050e99a" />
+
 
 ### Mobile
-![BioResearch AI Mobile](screenshots/mobile.png)
 
 ## 🛠️ Built With
 
