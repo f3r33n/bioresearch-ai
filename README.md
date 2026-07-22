@@ -44,7 +44,7 @@ Upload a PDF, choose how you want it analyzed, and get structured explanations t
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/bioresearch-ai.git
+git clone https://github.com/f3r33n/bioresearch-ai.git
 
 Install dependencies:
 
@@ -75,3 +75,7 @@ Scanned/image-only PDFs may not work correctly because the current version relie
 ## 👨‍💻 Author
 
 Built as a learning project exploring Python, Streamlit, LLM APIs, PDF processing, and AI-assisted scientific analysis.
+
+## 📜 License
+
+This project is open source and available under the MIT License.
