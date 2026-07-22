@@ -30,6 +30,9 @@ Upload a PDF, choose how you want it analyzed, and get structured explanations t
 
 
 ### Mobile
+<img width="647" height="1280" alt="photo_6271263095753741922_y" src="https://github.com/user-attachments/assets/7c6a505c-0258-4740-a4bd-73a366531d81" />
+<img width="644" height="1280" alt="photo_6271263095753741923_y" src="https://github.com/user-attachments/assets/4cc3180b-1721-428e-9728-48edfad0ae7f" />
+
 
 ## 🛠️ Built With
 
