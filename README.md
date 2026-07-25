@@ -19,6 +19,9 @@ Upload a PDF, choose how you want it analyzed, and get structured explanations t
 - 📏 Adjustable response depth
 - 📥 Export AI analysis as PDF
 - 📱 Responsive desktop and mobile interface
+  
+## Video explaination
+   https://youtu.be/jue9Em_isOs
 
 ## 📸 Preview
 
